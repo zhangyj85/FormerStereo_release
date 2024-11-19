@@ -95,6 +95,6 @@ If you find our models useful, please consider citing our paper!
 author="Zhang, Yongjian and Wang, Longguang and Li, Kunhong and Wang, Yun and Guo, Yulan",
 title="Learning Representations from Foundation Models for Domain Generalized Stereo Matching",
 booktitle="ECCV",
-year="2025",
+year="2024",
 }
 ```
