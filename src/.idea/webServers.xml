@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0692df9-ad24-42c9-a94e-cdc919cb17e5" name="tianhe">
+        <fileTransfer rootFolder="/GLOBALFS/sysu_ylguo_1" accessType="SFTP" host="proxy.nscc-gz.cn" port="8022" sshConfigId="4df4aecf-b40d-4a6d-84a8-54dcd9b3ebbe" sshConfig="sysu_ylguo_1@proxy.nscc-gz.cn:8022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,315 @@
+{
+    "train": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_2s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/delivery_area_3s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_2s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/electro_3s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/facade_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/facade_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/facade_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/facade_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/facade_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_2s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_2s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_2s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/forest_2s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_2s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/playground_3s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_2s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_2s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_2s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrace_2s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_1s/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2l/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2l/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2l/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2l/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2s/im1.png",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2s/disp0GT.pfm",
+            "mask1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2s/mask0nocc.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_training/terrains_2s/calib.txt"
+        }
+    ],
+    "test": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/lakeside_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/lakeside_1l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/lakeside_1l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/lakeside_1l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/lakeside_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/lakeside_1s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/lakeside_1s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/lakeside_1s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/sand_box_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/sand_box_1l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/sand_box_1l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/sand_box_1l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/sand_box_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/sand_box_1s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/sand_box_1s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/sand_box_1s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_1l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_1l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_1l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_1s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_1s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_1s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_1l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_1l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_2_1l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_1s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_1s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_2_1s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_2l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_2l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_2_2l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_2s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2_2s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_2_2s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_2l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_2s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_2s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_3l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_3l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_3l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_3l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_3s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_3s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/storage_room_3s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/storage_room_3s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_1l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_1l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_1l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/tunnel_1l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_1s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_1s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_1s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/tunnel_1s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_2l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_2l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_2l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/tunnel_2l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_2s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_2s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_2s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/tunnel_2s/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_3l/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_3l/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_3l/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/tunnel_3l/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_3s/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_3s/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/two_view_testing/tunnel_3s/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/test_ref/mix/tunnel_3s/disp0pred.pfm"
+        }
+    ]
+}

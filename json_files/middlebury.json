@@ -1,0 +1,1091 @@
+{
+    "train": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Adirondack-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Backpack-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Bicycle1-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Cable-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Classroom1-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Couch-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Flowers-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Jadeplant-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Mask-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Motorcycle-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Piano-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Pipes-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playroom-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Playtable-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Recycle-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shelves-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Shopvac-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sticks-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Storage-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword1-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Sword2-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Umbrella-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-imperfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/im1.png",
+            "img2E": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/im1E.png",
+            "img2L": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/im1L.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/disp0.pfm",
+            "disp2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/2014/Vintage-perfect/disp1.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/mask0nocc.png"
+        }
+    ],
+    "val": [],
+    "train-f": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Adirondack/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/ArtL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Jadeplant/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Motorcycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/MotorcycleE/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Piano/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PianoL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Pipes/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playroom/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Playtable/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/PlaytableP/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Recycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Shelves/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Teddy/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingF/Vintage/mask0nocc.png"
+        }
+    ],
+    "train-h": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Adirondack/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Adirondack/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Adirondack/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Adirondack/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Adirondack/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/ArtL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/ArtL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/ArtL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/ArtL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/ArtL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Jadeplant/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Jadeplant/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Jadeplant/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Jadeplant/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Jadeplant/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Motorcycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Motorcycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Motorcycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Motorcycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Motorcycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/MotorcycleE/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/MotorcycleE/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/MotorcycleE/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/MotorcycleE/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/MotorcycleE/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Piano/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Piano/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Piano/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Piano/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Piano/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PianoL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PianoL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PianoL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PianoL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PianoL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Pipes/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Pipes/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Pipes/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Pipes/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Pipes/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playroom/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playroom/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playroom/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playtable/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playtable/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playtable/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playtable/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Playtable/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PlaytableP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PlaytableP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PlaytableP/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PlaytableP/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/PlaytableP/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Recycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Recycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Recycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Recycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Recycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Shelves/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Shelves/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Shelves/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Shelves/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Shelves/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Teddy/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Teddy/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Teddy/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Teddy/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Teddy/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Vintage/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Vintage/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Vintage/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Vintage/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingH/Vintage/mask0nocc.png"
+        }
+    ],
+    "train-q": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Adirondack/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Adirondack/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Adirondack/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Adirondack/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Adirondack/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/ArtL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/ArtL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/ArtL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/ArtL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/ArtL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Jadeplant/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Jadeplant/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Jadeplant/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Jadeplant/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Jadeplant/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Motorcycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Motorcycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Motorcycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Motorcycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Motorcycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/MotorcycleE/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/MotorcycleE/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/MotorcycleE/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/MotorcycleE/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/MotorcycleE/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Piano/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Piano/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Piano/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Piano/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Piano/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PianoL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PianoL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PianoL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PianoL/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PianoL/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Pipes/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Pipes/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Pipes/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Pipes/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Pipes/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playroom/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playroom/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playroom/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playtable/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playtable/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playtable/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playtable/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Playtable/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PlaytableP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PlaytableP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PlaytableP/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PlaytableP/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/PlaytableP/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Recycle/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Recycle/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Recycle/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Recycle/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Recycle/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Shelves/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Shelves/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Shelves/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Shelves/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Shelves/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Teddy/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Teddy/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Teddy/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Teddy/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Teddy/mask0nocc.png"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Vintage/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Vintage/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Vintage/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Vintage/disp0GT.pfm",
+            "nocc1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/trainingQ/Vintage/mask0nocc.png"
+        }
+    ],
+    "test-f": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Australia/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Australia/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Australia/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Australia/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/AustraliaP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/AustraliaP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/AustraliaP/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/AustraliaP/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Bicycle2/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Bicycle2/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Bicycle2/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Bicycle2/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Classroom2/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Classroom2/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Classroom2/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Classroom2/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Classroom2E/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Classroom2E/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Classroom2E/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Classroom2E/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Computer/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Computer/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Computer/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Computer/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Crusade/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Crusade/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Crusade/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Crusade/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/CrusadeP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/CrusadeP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/CrusadeP/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/CrusadeP/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Djembe/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Djembe/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Djembe/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Djembe/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/DjembeL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/DjembeL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/DjembeL/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/DjembeL/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Hoops/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Hoops/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Hoops/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Hoops/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Livingroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Livingroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Livingroom/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Livingroom/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Newkuba/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Newkuba/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Newkuba/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Newkuba/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Plants/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Plants/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Plants/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Plants/disp0pred.pfm"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Staircase/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Staircase/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testF/Staircase/calib.txt",
+            "disp1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/test_ref/DLNR_32/Staircase/disp0pred.pfm"
+        }
+    ],
+    "test-h": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Australia/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Australia/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Australia/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/AustraliaP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/AustraliaP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/AustraliaP/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Bicycle2/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Bicycle2/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Bicycle2/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Classroom2/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Classroom2/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Classroom2/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Classroom2E/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Classroom2E/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Classroom2E/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Computer/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Computer/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Computer/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Crusade/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Crusade/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Crusade/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/CrusadeP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/CrusadeP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/CrusadeP/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Djembe/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Djembe/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Djembe/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/DjembeL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/DjembeL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/DjembeL/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Hoops/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Hoops/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Hoops/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Livingroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Livingroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Livingroom/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Newkuba/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Newkuba/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Newkuba/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Plants/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Plants/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Plants/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Staircase/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Staircase/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testH/Staircase/calib.txt"
+        }
+    ],
+    "test-q": [
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Australia/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Australia/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Australia/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/AustraliaP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/AustraliaP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/AustraliaP/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Bicycle2/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Bicycle2/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Bicycle2/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Classroom2/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Classroom2/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Classroom2/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Classroom2E/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Classroom2E/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Classroom2E/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Computer/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Computer/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Computer/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Crusade/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Crusade/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Crusade/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/CrusadeP/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/CrusadeP/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/CrusadeP/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Djembe/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Djembe/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Djembe/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/DjembeL/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/DjembeL/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/DjembeL/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Hoops/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Hoops/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Hoops/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Livingroom/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Livingroom/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Livingroom/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Newkuba/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Newkuba/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Newkuba/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Plants/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Plants/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Plants/calib.txt"
+        },
+        {
+            "img1": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Staircase/im0.png",
+            "img2": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Staircase/im1.png",
+            "calib": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/Middlebury/MiddEval3/testQ/Staircase/calib.txt"
+        }
+    ]
+}

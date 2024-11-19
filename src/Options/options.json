@@ -1,0 +1,55 @@
+{
+    "mode":"test",                     // [train, test]
+    "split":"train",                    // [train, val, test]
+
+    "record": {
+        "path": "../results",
+        "submit": false,
+        "vis": false,
+        "color": false,
+        "depth": false,
+        "point": false,
+        "summary_freq": 20
+    },
+
+    "environment":{
+        "cpu_threads": "4",
+        "deterministic": true,          // minimize random
+        "use_amp": false,               // 混合精度训练
+        "clip_grad": 1.0,               // 梯度裁剪, 对于 ViT 以及大参数网络而言, 起到稳定训练的作用(.3 ~ 1.0), 0 表示不使用裁剪
+        "seed": 1
+    },
+
+    "data": {
+        "datasets": ["kitti2015"],                                     // [SceneFlow, KITTIStereo]
+        "root_path": "/media/zhangyj85/Dataset/FormerStereo_release/datasets/ETH3D/",      // 数据集存放跟路径
+        "data_json": "../json_files",
+        "augment": true,
+        "crop_size": [336, 672],                        // image shape in [h,w]
+        "mean": [0.485, 0.456, 0.406],
+        "std": [0.229, 0.224, 0.225]
+    },
+
+    "model": {
+        "name": "Former_PSMNet",                               // [PSMNet, Fast_ACVNet]
+        "max_disp": 192,
+        "min_disp": 0,
+        "pretrain": null
+    },
+
+    "train": {
+        "accumulate_grad_iters": 4,                     // 梯度累加
+        "across_data_training": false,                  // 跨数据集训练, 用以增强泛化性
+        "epoch": 40,                                    // 训练总轮数
+        "batch_size": 2,                                // 单张 GPU 上的 batch size
+        "eval_steps": 500,                             // 若不指定, 则按照一个epoch存一次, 每eval就存
+        "eval_validation": true,
+        "lr_max": 1e-4,                                 // 最大学习率
+        "optimizer_type": "AdamW",                       // ['RMSProp', 'Adam', 'AdamW'], 参数需要到 ./utils/training_utils.py 中设置
+        "scheduler_type": "multisteplr",                // ['multisteplr', 'onecyclelr'], 参数需要到 ./utils/training_utils.py 中设置
+        "mean_teacher": false,
+        "save_path": "../snap/Former-RAFT-RVC2-4",
+        "resume": "../weights/FormerPSMNet_DINOv2_L.pth",
+        "strict": true
+    }
+}
